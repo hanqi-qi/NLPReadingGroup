@@ -1,11 +1,11 @@
 ## Causal Inference Papers and My summerization 
 
 
-### Basic+application in Recommendation System
+### Introducation +application in Recommendation System
 
 
 It contains:
 
-1) the Papers with my annotations and 
+1) The Papers with my IPad Annotations
 
-2) Two slides about general CausalInference and Application in Recommendation System (with "hanqi" in filename)
+2) Two slides about CausalInference Introduction (Basically From [Tuturiols](https://netcause.github.io/)) and the [Chinese Blog](https://www.zhihu.com/column/c_1362873055493033984) and Application in Recommendation System (with "hanqi" in filename)
