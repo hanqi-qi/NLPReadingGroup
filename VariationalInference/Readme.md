@@ -1,9 +1,9 @@
-# Various Subtopics in Variational Inference (CV and NLP and ML)
+## Various Subtopics in Variational Inference (CV and NLP and ML)
 
 
-### Sampling
+#### Sampling
 
 
-### Hierarchical Prior
+#### Hierarchical Prior
 
 
