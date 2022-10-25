@@ -16,3 +16,9 @@ Different topics in NLP: with title and no more than three sentences to describe
 ### 4. Debiasing Method
 
 
+### 5. Domain Adaptation
+
+
+### 6. Diffusion Model
+
+
