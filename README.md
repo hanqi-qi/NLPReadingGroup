@@ -21,4 +21,5 @@ Different topics in NLP: with title and no more than three sentences to describe
 
 ### 6. Diffusion Model
 
+### 7. Knowledge-enhanced Pretrained Language Model
 
