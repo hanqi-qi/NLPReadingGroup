@@ -6,7 +6,7 @@ Paper reading list in LLMs:
   - [Gradient Approximate](#gradient-approximate)
   - [LLM as latent variable Model](#LLM-as-latent-variable-Model)
   - [Training Data](#training-data)
-  - [Multiple skills](#multiple-skills)
+  - [Emergence](#multiple-skills)
 - [Reasoning in LLMs](#Reasoning-in-LLMs)
 - [Causal Inference](#Causal-Inference)
 - [Cognitive LLMs](#cognitive-llm)
@@ -39,9 +39,12 @@ This repository will keep updating ... 🤗
 * Schema-learning and rebinding as mechanisms of in-context learning and emergence. DeepMind, June23. [paper](https://arxiv.org/pdf/2307.01201.pdf)
   - Propose a sequence learning model based on action->latent variable->observed variable Generation process.
 ### Training Data
-* Data Distributional Properties Drive Emergent In-Context Learning in Transformers. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/77c6ccacfd9962e2307fc64680fc5ace-Paper-Conference.pdf)
-* Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression​. [paper](proceedings.neurips.cc/paper_files/paper/2022/file/77c6ccacfd9962e2307fc64680fc5ace-Paper-Conference.pdf)
-### Multiple skills
+- Distribution
+  * Data Distributional Properties Drive Emergent In-Context Learning in Transformers. [paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/77c6ccacfd9962e2307fc64680fc5ace-Paper-Conference.pdf)
+- Diversity
+  * Pretraining task diversity and the emergence of non-Bayesian in-context learning for regression​. [paper](proceedings.neurips.cc/paper_files/paper/2022/file/77c6ccacfd9962e2307fc64680fc5ace-Paper-Conference.pdf)
+  * 
+### Emergence
 * A Theory for Emergence of Complex Skills in Language Models. [paper](​https://arxiv.org/pdf/2307.15936.pdf)
 
 👆 [Back to Top](#paper-list)
