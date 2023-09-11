@@ -34,7 +34,7 @@ This repository will keep updating ... 🤗
 * What LEARNING ALGORITHM IS IN-CONTEXT LEARNING? INVESTIGATIONS WITH LINEAR MODELS. ICLR23. [paper](https://arxiv.org/abs/2211.15661)
 * Transformers Learn In-Context by Gradient Descent. ICML23. [paper](https://arxiv.org/abs/2212.0767)
 ### LLM as latent variable Model
-* An Explanation of In-context Learning as Implicit Bayesian Inference. [paper] ([paper](https://arxiv.org/abs/2111.02080)
+* An Explanation of In-context Learning as Implicit Bayesian Inference. [paper](https://arxiv.org/abs/2111.02080)
 * Schema-learning and rebinding as mechanisms of in-context learning and emergence. DeepMind, June23. [paper](https://arxiv.org/pdf/2307.01201.pdf)
   - Propose a sequence learning model based on action->latent variable->observed variable Generation process.
 ### Training Data
