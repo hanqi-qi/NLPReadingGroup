@@ -6,7 +6,7 @@ Paper reading list in LLMs:
   - [Gradient Approximate](#gradient-approximate)
   - [LLM as latent variable Model](#LLM-as-latent-variable-Model)
   - [Training Data](#training-data)
-  - [Emergence](#multiple-skills)
+  - [Emergence](#emergence)
 - [Reasoning in LLMs](#Reasoning-in-LLMs)
 - [Causal Inference](#Causal-Inference)
 - [Cognitive LLMs](#cognitive-llm)
