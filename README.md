@@ -1,27 +1,30 @@
 # NLP Reading Group & Personal Research Interests
 
-Different topics in NLP: with title and no more than three sentences to describe the key ideas. You can find papers with annotations, as well as my summerization in corresponding directory.
+Different topics in NLP: with title and no more than three sentences to describe the key ideas. You can find papers with annotations, as well as my notes in the corresponding directory.
 
-### 1. Variational Inference
+### [Large Language Model](https://github.com/hanqi-qi/NLPReadingGroup/blob/main/Interpretability%20in%20LLMs.md)
 
-
-### 2. Prompt-based Methods
-
+### Variational Inference
 
 
-### 3. Causal Inference
+### Prompt-based Methods
 
 
 
-### 4. Debiasing Method
+### Causal Inference
 
 
-### 5. Domain Adaptation
+
+### Debiasing Method
 
 
-### 6. Diffusion Model
+### Domain Adaptation
 
-### 7. Knowledge-enhanced Pretrained Language Model
 
-### 8. [Large Language Model](https://github.com/hanqi-qi/NLPReadingGroup/blob/main/Interpretability%20in%20LLMs.md)
+### Diffusion Model
+
+### Knowledge-enhanced Pretrained Language Model
+
+
+
 
