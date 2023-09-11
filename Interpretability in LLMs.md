@@ -25,6 +25,7 @@ This repository will keep updating ... 🤗
 **Tracr**: TRAnsformer Compiler for RASP
 
 ### Model Structure
+[Notes](https://zhuanlan.zhihu.com/p/652269984)
 * In-context Learning and Induction Heads (Anthropic AI) [paper](https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html)
 * Transformers as Algorithms: Generalization and Stability in In-context Learning. ICML23. [paper](https://arxiv.org/pdf/2301.07067.pdf)
   - Prerequisite reading
