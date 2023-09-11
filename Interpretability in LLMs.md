@@ -1,5 +1,5 @@
 # Paper List
-Paper reading list in 💬 **Efficient Large Language Model** and 📝 **Understand LLMs**. This repository will keep updating ... 🤗
+Paper reading list in: 
 - [Efficient Large Language Model](#Efficient-Large-Language-Model)
 - [Understand LLMs](#Understand-LLMs)
   - [Model Structure](#model-structure)
@@ -10,6 +10,8 @@ Paper reading list in 💬 **Efficient Large Language Model** and 📝 **Underst
 - [Reasoning in LLMs](#Reasoning-in-LLMs)
 - [Causal Inference](#Causal-Inference)
 - [Cognitive LLMs](#cognitive-llm)
+
+This repository will keep updating ... 🤗
 ***
 
 
@@ -41,13 +43,17 @@ Paper reading list in 💬 **Efficient Large Language Model** and 📝 **Underst
 ### Multiple skills
 * A Theory for Emergence of Complex Skills in Language Models. [paper](​https://arxiv.org/pdf/2307.15936.pdf)
 
+👆 [Back to Top](#paper-list)
 ## Causal Inference
 * Causal interventions expose implicit situation models for commonsense language understanding. ACL-findings23. [paper](https://arxiv.org/pdf/2306.03882.pdf)
 
+👆 [Back to Top](#paper-list)
 ## Reasoning in LLMs
 * Make a Choice! Knowledge Base Question Answering with In-Context Learning
 * STaR: Self-Taught Reasoner Bootstrapping Reasoning With Reasoning.  Neurips22, cite110+. [paper](https://​openreview.net/forum?id=_3ELRdg2sgI)
 * ChatGPT is a Knowledgeable but Inexperienced Solver: An Investigation of Commonsense Problem in Large Language Models.[paper](https://arxiv.org/pdf/2303.16421.pdf)
 
+👆 [Back to Top](#paper-list)
 ## Cognitive LLMs
-* DISSOCIATING LANGUAGE AND THOUGHT IN LARGE LANGUAGE MODELS: A COGNITIVE PERSPECTIVE. [paper](https://arxiv.org/pdf/2301.06627.pdf)
+* Dissociating Language and thought in large Language Model: a cognitive perspective. [paper](https://arxiv.org/pdf/2301.06627.pdf)
+👆 [Back to Top](#paper-list)
