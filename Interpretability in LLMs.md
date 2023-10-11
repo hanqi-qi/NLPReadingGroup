@@ -11,6 +11,7 @@ Paper reading list in LLMs:
 - [Reasoning in LLMs](#Reasoning-in-LLMs)
 - [Causal Inference](#Causal-Inference)
 - [Cognitive LLMs](#cognitive-llm)
+- [Model Editing](#model-edit)
 
 This repository will keep updating ... 🤗
 ***
@@ -69,3 +70,6 @@ This repository will keep updating ... 🤗
 * Dissociating Language and thought in large Language Model: a cognitive perspective. [paper](https://arxiv.org/pdf/2301.06627.pdf)
 * Using cognitive psychology to understand GPT-3. [paper](https://arxiv.org/abs/2206.14576) 
 👆 [Back to Top](#paper-list)
+
+## Model Editing
+* Can We Edit Factual Knowledge by In-Context Learning? [paper](https://arxiv.org/pdf/2305.12740.pdf)
