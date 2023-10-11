@@ -4,6 +4,7 @@ Paper reading list in LLMs:
 - [Understand LLMs](#Understand-LLMs)
   - [Model Structure](#model-structure)
   - [Gradient Approximate](#gradient-approximate)
+  - [CoT Interpretability](#cot-interpretability)
   - [LLM as latent variable Model](#LLM-as-latent-variable-Model)
   - [Training Data](#training-data)
   - [Emergence](#emergence)
@@ -31,9 +32,14 @@ This repository will keep updating ... 🤗
   - Prerequisite reading
     - A Mathematical Framework for Transformer Circuits. [paper](https://transformer-circuits.pub/2021/framework/index.html#three-kinds-of-composition)
 ### Gradient Approximate
+(machine learning/theory)
 * Why Can GPT Learn In-Context? Language Models Implicitly Perform Gradient Descent as Meta-Optimizers2022. [paper](https://arxiv.org/abs/2212.10559)
 * What LEARNING ALGORITHM IS IN-CONTEXT LEARNING? INVESTIGATIONS WITH LINEAR MODELS. ICLR23. [paper](https://arxiv.org/abs/2211.15661)
 * Transformers Learn In-Context by Gradient Descent. ICML23. [paper](https://arxiv.org/abs/2212.0767)
+
+### CoT Interpretability
+* Towards Revealing the Mystery behind Chain of Thought: A Theoretical Perspective. [paper](https://arxiv.org/abs/2305.15408)
+
 ### LLM as latent variable Model
 * An Explanation of In-context Learning as Implicit Bayesian Inference. [paper](https://arxiv.org/abs/2111.02080)
 * Schema-learning and rebinding as mechanisms of in-context learning and emergence. DeepMind, June23. [paper](https://arxiv.org/pdf/2307.01201.pdf)
@@ -50,6 +56,7 @@ This repository will keep updating ... 🤗
 👆 [Back to Top](#paper-list)
 ## Causal Inference
 * Causal interventions expose implicit situation models for commonsense language understanding. ACL-findings23. [paper](https://arxiv.org/pdf/2306.03882.pdf)
+* 
 
 👆 [Back to Top](#paper-list)
 ## Reasoning in LLMs
@@ -60,5 +67,5 @@ This repository will keep updating ... 🤗
 👆 [Back to Top](#paper-list)
 ## Cognitive LLMs
 * Dissociating Language and thought in large Language Model: a cognitive perspective. [paper](https://arxiv.org/pdf/2301.06627.pdf)
-  
+* Using cognitive psychology to understand GPT-3. [paper](https://arxiv.org/abs/2206.14576) 
 👆 [Back to Top](#paper-list)
