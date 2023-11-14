@@ -12,6 +12,7 @@ Paper reading list in LLMs:
 - [Causal Inference](#Causal-Inference)
 - [Cognitive LLMs](#cognitive-llm)
 - [Model Editing](#model-edit)
+- [Safe LLMs](#safe-llm)
 
 This repository will keep updating ... 🤗
 ***
@@ -74,3 +75,6 @@ This repository will keep updating ... 🤗
 ## Model Editing
 * Can We Edit Factual Knowledge by In-Context Learning? [paper](https://arxiv.org/pdf/2305.12740.pdf)
 👆 [Back to Top](#paper-list)
+
+## Safe LLM
+Do the rewards justify the means? measuring trade-offs between rewards and ethical behavior in the machiavelli benchmark. ICML23, oral.[paper][https://arxiv.org/pdf/2304.03279.pdf]
